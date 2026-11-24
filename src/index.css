@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-clash {
+  font-family: 'Lilita One', cursive;
+  letter-spacing: 0.04em;
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.8);
+}
